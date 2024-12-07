@@ -1,5 +1,5 @@
 {
-	"clientVersion": "4.0",
+	"clientVersion": "4.1",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "Ultima",
-	"newClientUrl" : "https://github.com/LeoPetryx/UltimaLauncher/releases/download/4.0/Ultima.zip",
+	"newClientUrl" : "https://github.com/LeoPetryx/UltimaLauncher/releases/download/4.1/Ultima.zip",
 	"clientExecutable": "client.exe"
 }
